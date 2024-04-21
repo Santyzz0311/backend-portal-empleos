@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUfONxeimWsGjuTAne63L/zzS7XjyFk8eK5koUc4zqxqKMxL1IkwSX6P7XbV4VSCggqKYS4GummIADf848rSuw==",
+  "dgSpecHash": "rmCoH+N+dYjzSCuqElK4F/QLHSKsL7iZvD3dEK1X/Tdys0XeNT12USm20OIJcTT52eiLEPG/sVhm67lNtPNYrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebas\\source\\repos\\backend-portal-empleos\\backend-portal-empleos.csproj",
+  "projectFilePath": "D:\\Projects\\Own Projects\\backend-portal-empleos\\backend-portal-empleos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
