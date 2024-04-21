@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4CQwqnIbXa7kntAWJ/SLE4uIolpImEEISYJXCHinX7g=",
+  "Source": "backend-portal-empleos",
+  "BasePath": "_content/backend-portal-empleos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
